@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...g
 -->
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/dakshjain09/">
@@ -34,11 +31,10 @@ some text</br>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
 <p align="center"><h1>My Tech Stack</h1> 
-| abc           | pics          |</br>
-| ------------- |:-------------:|</br>
-| col 3 is      | right-aligned |</br>
-| col 2 is      | centered      |</br>
-| zebra stripes | are neat      |</br>
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Programming Languages 
 
