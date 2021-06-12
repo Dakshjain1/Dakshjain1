@@ -19,19 +19,16 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-# :octocat:
+
 <p align="center">
 <img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center"> < img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers" />
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
 </a>
-<!--<a href="https://github.com/anuraghazra/convoychat">
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
-</a>-->
 
- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
