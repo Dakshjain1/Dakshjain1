@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/dakshjain09/">
   <img align="left" alt="Daksh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</br>
 
 <!-- <p align="center">
 <img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
 </p> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
 </a>
 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
- <p align="right"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
+ <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
+ <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
