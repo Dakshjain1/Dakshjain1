@@ -1,28 +1,39 @@
 <h3 align="center">
-  <samp>&gt; Hello World!, I am <b>Daksh Jain</b></samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <samp>&gt; Hello World!, I am Daksh Jain</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/dakshjain09/">
-      <img align="left" alt="Daksh's LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/dakshjain09/" target="_blank">
+      <img  alt="Daksh's LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://daksh-jain00.medium.com/">
-      <img align="left" alt="Daksh's Medium"  src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<a href="https://daksh-jain00.medium.com/">
-<img align="left" alt="Daksh's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    <a href="https://daksh-jain00.medium.com/" target="_blank">
+      <img  alt="Daksh's Medium"  src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+    </a>
+    <a href="mailto:daksh.jain00@gmail.com" target="_blank">
+      <img alt="Daksh's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
-<br><br>
 
-some test</br>
-some text</br>
-some text</br>
+---
+
+some text<br>
+some text<br>
+some text<br>
 <br>
+---
 
+<h3 align="center">
+  <samp>&gt; About my Github...</samp>
+</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
+</p>
 
-<p align="center"><h1>My Tech  Stack</h1>  </p>
+some text
+---
 
+<h3 align="center">
+  <samp>&gt;  My Tech Stack</samp>
+</h3>
 
 Markdown | Less |
 --- | --- |
@@ -35,10 +46,12 @@ IDE | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7
 Version Control | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 Servers | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
 Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### My Github Stats <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
-<br>
+<h3 align="center">
+  <samp>&gt; My Github Stats</samp>  <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
+</h3>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
@@ -46,5 +59,3 @@ Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=
 
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
  <br><br>
-
-
