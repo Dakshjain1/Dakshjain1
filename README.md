@@ -1,6 +1,3 @@
-<p align="center">
-<img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
-</p>
 <!--
 **Dakshjain1/Dakshjain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...g
 -->
+<p align="center">
+<img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dakshjain1)](https://github.com/ryo-ma/github-profile-trophy)
+
