@@ -1,6 +1,4 @@
-### Hi there 👋 I'm
-## Daksh Jain
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/8e/7b/5e8e7b4f19d1136661ef8bfb2f1033bc.gif">
 
 <!--
 **Dakshjain1/Dakshjain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
