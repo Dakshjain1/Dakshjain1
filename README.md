@@ -53,9 +53,9 @@ Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=
 </h3>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
+<a href="https://github.com/Dakshjain1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical&custom_title=Daksh's GitHub Stats" />
 </a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
+<a href="https://github.com/Dakshjain1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&langs_count=3&theme=radical" />
 </a>
