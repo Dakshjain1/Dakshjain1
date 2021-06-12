@@ -30,7 +30,7 @@ some text</br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
-<p align="center"><h1>My Tech Stack</h1> 
+<p align="center"><h1>My Tech Stack</h1>  </p>
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
