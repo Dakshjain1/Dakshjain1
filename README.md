@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
 </p> -->
 
-### My Github Stats <img src="https://lukonet.com/app/uploads/2014/09/statistic-loop.gif" width="25px">
+### My Github Stats <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
 </br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
