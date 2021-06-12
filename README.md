@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 some test</br>
 some text</br>
 some text</br>
-</br></br>
+</br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
-<p align="center"> My Tech Stack </p>
+<p align="center">
+### My Tech Stack 
+</p>
 
 ### My Github Stats <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
 </br>
