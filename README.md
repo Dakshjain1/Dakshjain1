@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...g
 -->
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there I'm Daksh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/dakshjain09/">
   <img align="left" alt="Daksh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -30,7 +30,9 @@ some text</br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
-<!-- <p align="center"><h1>My Tech  Stack</h1>  </p> -->
+<p align="center"><h1>My Tech  Stack</h1>  </p>
+------------------------------------------------
+
 Markdown | Less |
 --- | --- |
 DevOps | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
@@ -42,19 +44,7 @@ IDE | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7
 Version Control | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 Servers | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
 Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
-
-
-
--------------------------------
-
-
-	
-	
-
-
-	
-	
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### My Github Stats <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
 </br>
