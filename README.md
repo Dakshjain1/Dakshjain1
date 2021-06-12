@@ -56,6 +56,6 @@ Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dakshjain1&show_icons=true&theme=radical" />
 </a>
-
- <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
- <br><br>
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
+</a>
