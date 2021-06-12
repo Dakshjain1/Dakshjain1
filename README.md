@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Daksh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
+</br>
 
 <!-- <p align="center">
 <img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
@@ -29,5 +30,6 @@ Here are some ideas to get you started:
 </a>
 
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
+  </br>
  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
