@@ -22,11 +22,15 @@ Here are some ideas to get you started:
   <img align="left" alt="Daksh's Medium" width="22px" src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" />
 </a>
 </br>
-</br>
 
-<!-- <p align="center">
-<img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
-</p> -->
+some test</br>
+some text</br>
+some text</br>
+</br></br>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
+
+<p align="center"> My Tech Stack </p>
 
 ### My Github Stats <img src="https://media2.giphy.com/media/l4FGzAPvg5PbZrVlK/200.webp?cid=ecf05e47ffrlh5cvl2dfpqtpiqdu5qb930n3o9jyggpip71s&rid=200.webp&ct=g" width="25px">
 </br>
@@ -37,5 +41,5 @@ Here are some ideas to get you started:
 
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshjain1&layout=compact" />
  </br></br>
- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
+
 
