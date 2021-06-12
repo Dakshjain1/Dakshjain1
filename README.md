@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
