@@ -31,20 +31,24 @@ some text</br>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 
 <!-- <p align="center"><h1>My Tech  Stack</h1>  </p> -->
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-Programming Languages 
-
+Markdown | Less 
+--- | --- 
+*Programming Languages* | 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>   
-<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>    
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>  
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</br>
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+*Still* | renders
+	*Still* | renders
+	*Still* | renders
+	*Still* | renders
+	*Still* | renders
+	*Still* | renders
+	*Still* | renders
+
+
+
+
 Frameworks and libraries
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </br>
