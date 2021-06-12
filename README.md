@@ -1,4 +1,4 @@
-<img alt="Coding" width="400" src="https://i.pinimg.com/originals/5e/8e/7b/5e8e7b4f19d1136661ef8bfb2f1033bc.gif">
+<img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/794238861433329050/0BBF5155BAA4CF943C683701E86178CA3E25A84E/">
 
 <!--
 **Dakshjain1/Dakshjain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
