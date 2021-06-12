@@ -15,11 +15,11 @@
 </p>
 
 ---
-
-<samp>some text</samp><br>
-<samp>some text</samp><br>
-<samp>some text</samp><br>
-<h7>💬 Ask me about anything, I am happy to help;</h7>
+<p align="center">
+<samp> A DevOps & Cloud Enthusiast. I Have the knowledge of diverse Cloud Platforms - Azure, AWS, GCP. Not leaving any creativity behind, I am also a flutter dev. Worked on multiple projects, as can be seen from my GitHub :octocat: <br></samp>
+  <samp>I have experience of many IaC and configuration management tool - Terraform & Ansible.</samp><br><samp> I am a freelance developer form India. <br></samp></p>
+ <samp>Trying my level best to contribute much more to opensource in the near future.</samp><br>
+ <samp>💬 Ask me about anything, I am happy to help;</samp>
 <br>
 ---
 
@@ -29,7 +29,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dakshjain1&title=MultiLanguage,Commit,Repositories,Stars,Followers,Issues" />
 </p>
 
-<samp>some text</samp>
+<samp>Trying to touch and learn 1 new thing everyday!</samp>
 ---
 
 <h3 align="center">
