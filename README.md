@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp>&gt; Hello World!, I am Daksh Jain</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <samp>&gt; Hello World!, I am Daksh Jain</samp>
 </h3>
 
 <p align="center">
