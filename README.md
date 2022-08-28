@@ -18,7 +18,7 @@
 
 <p align="center">
 <samp> A DevOps & Cloud Enthusiast. I Have the knowledge of diverse Cloud Platforms - Azure, AWS, GCP. Not leaving any creativity behind, I am also a flutter dev. Worked on multiple projects, as can be seen from my GitHub :octocat: <br></samp>
-  <samp>I have experience of many IaC and configuration management tool - Terraform & Ansible.</samp><br><samp> I am a freelance developer form India. <br></samp></p>
+  <samp>I have experience of many IaC and configuration management tool - Terraform & Ansible.</samp><br><samp> I am a freelance developer from India. <br></samp></p>
  <samp>Trying my level best to contribute much more to opensource in the near future.</samp><br>
  <samp>💬 Ask me about anything, I am happy to help;</samp>
 
